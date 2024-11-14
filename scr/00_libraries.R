@@ -25,3 +25,6 @@ renv::install("ggbeeswarm")
 renv::install("harmony")
 
 renv::install("circlize")
+
+renv::install("bioc::MouseThymusAgeing")
+renv::install("satijalab/seurat-data")
